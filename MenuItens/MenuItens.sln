@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuItens", "MenuItens.csproj", "{4253E021-8143-4E72-93CA-55841C79F574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuTestProject", "..\MenuTestProject\MenuTestProject.csproj", "{4CC1A98C-7C81-42D2-B892-7A764BDF1EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4253E021-8143-4E72-93CA-55841C79F574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4253E021-8143-4E72-93CA-55841C79F574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4253E021-8143-4E72-93CA-55841C79F574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4253E021-8143-4E72-93CA-55841C79F574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC1A98C-7C81-42D2-B892-7A764BDF1EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC1A98C-7C81-42D2-B892-7A764BDF1EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC1A98C-7C81-42D2-B892-7A764BDF1EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC1A98C-7C81-42D2-B892-7A764BDF1EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9538A87-5E6F-45B8-AAEA-F9837B6C95A4}
+	EndGlobalSection
+EndGlobal
